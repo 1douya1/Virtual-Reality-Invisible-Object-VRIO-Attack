@@ -2,7 +2,7 @@
 
 # Unity VR Security Project
 
-This repository contains the Unity project files for the Virtual Reality (VR) security research conducted as part of my MSc dissertation. The project explores various VR-based attacks, such as Invisible Object Attacks, Denial of VR Components, and Persistent Gaze Lock Attacks, and implements corresponding defense mechanisms.
+This project supports my MSc dissertation titled "Security Challenges in Virtual Reality Environments: An Exploration of VR-Based Attacks and Defense Mechanisms." The dissertation documents the research process, including the design, implementation, and evaluation of the VR security measures developed in this project.
 
 ## Contents
 - **Assets**: Contains all the Unity assets used in the project, including 3D models, textures, and scripts.
